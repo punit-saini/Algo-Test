@@ -35,5 +35,3 @@
 3️⃣ Updated the chart to reflect the selected instruments and their respective data.
 
 🎉 It was an amazing journey working on these phases. I successfully converted timestamps, implemented live price updates, and enabled OHLC visualization.
-
->>>>>>> 7cd6449acc49da4f9e0f11d9c97d90b407f609c7
